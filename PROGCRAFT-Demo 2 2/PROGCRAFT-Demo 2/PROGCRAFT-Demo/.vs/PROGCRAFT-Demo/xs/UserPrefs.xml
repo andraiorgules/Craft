@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{875E278A-61E1-4EB3-9579-2FC3759C9154}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PROGCRAFT-Demo/Utilities/Display.cs">
+    <Files>
+      <File FileName="PROGCRAFT-Demo/Game.cs" Line="54" Column="68" />
+      <File FileName="PROGCRAFT-Demo/Item.cs" Line="35" Column="45" />
+      <File FileName="PROGCRAFT-Demo/Recipe.cs" Line="11" Column="1" />
+      <File FileName="PROGCRAFT-Demo/NPC.cs" Line="17" Column="51" />
+      <File FileName="PROGCRAFT-Demo/Person.cs" Line="13" Column="29" />
+      <File FileName="PROGCRAFT-Demo/IItemContainer.cs" Line="7" Column="36" />
+      <File FileName="PROGCRAFT-Demo/Customer.cs" Line="12" Column="1" />
+      <File FileName="PROGCRAFT-Demo/Player.cs" Line="9" Column="10" />
+      <File FileName="PROGCRAFT-Demo/Utilities/Display.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PROGCRAFT-Demo" expanded="True">
+            <Node name="PROGCRAFT-Demo" expanded="True">
+              <Node name="Utilities" expanded="True">
+                <Node name="Display.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PROGCRAFT-Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
